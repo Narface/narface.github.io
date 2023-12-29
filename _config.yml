@@ -6,27 +6,26 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: es
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: "Europe/Madrid"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Narface # the main title
 
-tagline: Ciberseguridad # it will display as the sub-title
+tagline: "Aprendiendo y compartiendo sobre el mundo de la ciberseguridad." # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+description: "Narface es un sitio web donde comparto mis experiencias, conocimientos y proyectos sobre ciberseguridad. Aquí encontrarás write-ups de máquinas, tutoriales de herramientas, noticias, opiniones y mucho más. Mi objetivo es aprender y ayudar a otros a aprender sobre este apasionante campo."
+# used by seo meta and the atom feed 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://narface.github.io"
 
 github:
-  username: Narface # change to your github username
+  username: narface # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -35,14 +34,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Narface
-  email: thenarface@domain.com # change to your email address
+  email: thenarface@gmil.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/narface # change to your github homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/
 
 google_site_verification: # fill in to your verification string
 
@@ -70,10 +69,11 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
+
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets\img\narface.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
