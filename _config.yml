@@ -16,7 +16,7 @@ timezone: "Europe/Madrid"
 
 title: Narface # the main title
 
-tagline: "Aprendiendo y compartiendo sobre el mundo de la ciberseguridad." # it will display as the sub-title
+tagline: "💻Ciberseguridad | Hacking Ético" # it will display as the sub-title
 
 description: "Narface es un sitio web donde comparto mis experiencias, conocimientos y proyectos sobre ciberseguridad. Aquí encontrarás write-ups de máquinas, tutoriales de herramientas, noticias, opiniones y mucho más. Mi objetivo es aprender y ayudar a otros a aprender sobre este apasionante campo."
 # used by seo meta and the atom feed 
@@ -38,7 +38,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/narface # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/
@@ -73,7 +73,7 @@ img_cdn:
 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets\img\narface.png
+avatar: https://avatars.githubusercontent.com/u/67017867?s=400&u=60cfd1d2f27634cea55d8ed4f04e2bcec47eff7f&v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pickle Rick:  máquina de TryHackMe"
+date: 2023-12-26 12:00:00 -0000
 author: Narface
 category: WriteUp
 tags: [TryHackMe, Pickle Rick, Hacking]
