@@ -12,7 +12,7 @@ permalink: /about/
 <h1 align="center"> ¡Hola a todos!👋 Soy Fran 👨🏻‍💻 </h1>
 <h3 align="center"></h3>
 
-# Bienvenido a mi perfil de GitHub
+# ¡Bienvenido a mi bitácora de ciberseguridad! 🔒💻 
 
 ## Sobre mí
 
@@ -47,7 +47,7 @@ permalink: /about/
 
 ### Offensive Security Certified Professional (OSCP)
 
-Estoy actualmente preparándome para obtener la certificación OSCP de Offensive Security.
+Actualmente me estoy preparando para obtener la certificación OSCP de Offensive Security.
 
 <img src="https://grupooruss.com/wp-content/uploads/2017/11/OSCP.png" alt="OSCP Badge" width="150">
 
@@ -57,4 +57,4 @@ Estoy actualmente preparándome para obtener la certificación OSCP de Offensive
 ## Contacto
 Puedes encontrarme en [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/) para mantenernos en contacto y seguir mi trabajo.
 
-¡Gracias por visitar mi perfil!😁
+¡Gracias por pasar por aquí!😁
