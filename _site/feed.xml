@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Narface</title>
   <subtitle>Narface es un sitio web donde comparto mis experiencias, conocimientos y proyectos sobre ciberseguridad. Aquí encontrarás write-ups de máquinas, tutoriales de herramientas, noticias, opiniones y mucho más. Mi objetivo es aprender y ayudar a otros a aprender sobre este apasionante campo.</subtitle>
-  <updated>2023-12-31T18:21:38+01:00</updated>
+  <updated>2024-01-02T11:22:08+01:00</updated>
   <author>
     <name>Narface</name>
     <uri>http://localhost:4000/</uri>
@@ -13,15 +13,55 @@
   <link rel="alternate" type="text/html" hreflang="es-ES"
     href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
-  <rights> © 2023 Narface </rights>
+  <rights> © 2024 Narface </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
-    <title>Pickle Rick:  máquina de TryHackMe</title>
-    <link href="http://localhost:4000/posts/pickle-rick/" rel="alternate" type="text/html" title="Pickle Rick:  máquina de TryHackMe" />
+    <title>RootMe</title>
+    <link href="http://localhost:4000/posts/RootMe/" rel="alternate" type="text/html" title="RootMe" />
+    <published>2024-01-02T13:00:00+01:00</published>
+  
+    <updated>2024-01-02T13:00:00+01:00</updated>
+  
+    <id>http://localhost:4000/posts/RootMe/</id>
+    <content src="http://localhost:4000/posts/RootMe/" />
+    <author>
+      <name>Narface</name>
+    </author>
+
+  
+    
+    <category term="WriteUp" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      🚀 RootMe: Un viaje a través de TryHackMe
+
+Recientemente, tuve la oportunidad de enfrentarme al desafío de la máquina RootMe en TryHackMe. Esta experiencia me ha permitido profundizar en mis habilidades de hacking y aprender nuevas técnicas.
+
+🌟 Mi Motivación
+
+Este desafío me ha motivado a seguir aprendiendo y mejorando en el campo del hacking ético. Además, me ha animado a compartir mis experien...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Pickle Rick: En busca de los ingredientes</title>
+    <link href="http://localhost:4000/posts/pickle-rick/" rel="alternate" type="text/html" title="Pickle Rick: En busca de los ingredientes" />
     <published>2023-12-26T13:00:00+01:00</published>
   
     <updated>2023-12-29T14:28:38+01:00</updated>
@@ -46,18 +86,13 @@
 
 
 
-      Pickle Rick: TryHackMe
+      🚀 Pickle Rick: Un viaje en busca de los tres ingredientes
 
-He tenido la oportunidad de abordar la máquina Pickle Rick en TryHackMe. Esta experiencia me permitió explorar…
+Recientemente, tuve la oportunidad de enfrentarme al desafío de la máquina Pickle Rick en TryHackMe. Esta experiencia me ha permitido lanzarme a la aventura de documentar las máquinas que voy realizando tanto para repasar, como para entrenar como para aprender e intentar seguir mejorando.
 
-Mi Experiencia
+🌟 Mi Motivación
 
-Descarga la solución en PDF
-
-Adjunto la solución detallada en PDF para aquellos que deseen profundizar en los pasos que seguí para resolver los desafíos presentados por Pickle Rick en TryHackMe.
-
-Narface
-
+Lo importante es que todo esto...
     </summary>
   
 
