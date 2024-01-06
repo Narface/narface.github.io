@@ -1,11 +1,11 @@
 [
   
   {
-    "title": "RootMe",
+    "title": "RootMe: Desafiando la seguridad",
     "url": "/posts/RootMe/",
     "categories": "WriteUp",
     "tags": "TryHackMe, RootMe, Hacking",
-    "date": "2024-01-02 13:00:00 +0100",
+    "date": "2024-01-03 13:00:00 +0100",
     
 
 
@@ -13,8 +13,8 @@
 
 
     
-    "snippet": "🚀 RootMe: Un viaje a través de TryHackMeRecientemente, tuve la oportunidad de enfrentarme al desafío de la máquina RootMe en TryHackMe. Esta experiencia me ha permitido profundizar en mis habilidad...",
-    "content": "🚀 RootMe: Un viaje a través de TryHackMeRecientemente, tuve la oportunidad de enfrentarme al desafío de la máquina RootMe en TryHackMe. Esta experiencia me ha permitido profundizar en mis habilidades de hacking y aprender nuevas técnicas.🌟 Mi MotivaciónEste desafío me ha motivado a seguir aprendiendo y mejorando en el campo del hacking ético. Además, me ha animado a compartir mis experiencias y conocimientos con la comunidad.🎯 Introducción al DesafíoEn este post, voy a compartir mi experiencia con el desafío de la máquina RootMe de TryHackMe. Este desafío es una excelente oportunidad para poner a prueba tus habilidades de hacking y aprender nuevas técnicas.💡 Mi ExperienciaDurante mi tiempo con RootMe, he aprendido que… (aquí puedes detallar más sobre lo que aprendiste, las dificultades que encontraste y cómo las superaste)📋 Detalles del DesafíoEl desafío RootMe te lleva a través de una serie de pruebas que requieren habilidades en áreas como… (aquí puedes hablar más sobre el desafío, qué habilidades se requieren para completarlo, cuánto tiempo te llevó, etc.)📚 Solución DetalladaPara aquellos que estén interesados en los pasos exactos que seguí para superar los desafíos presentados por RootMe en TryHackMe, he preparado una solución detallada en formato PDF.Descarga la solución en PDFEspero que este post te sea útil y te inspire a probar el desafío RootMe en TryHackMe. ¡Feliz hacking!Narface"
+    "snippet": "🚀 RootMe: Un desafío de seguridadRecientemente, he tenido la oportunidad de sumergirme en el desafío de la máquina RootMe en TryHackMe. Esta experiencia me ha llevado a explorar y documentar los de...",
+    "content": "🚀 RootMe: Un desafío de seguridadRecientemente, he tenido la oportunidad de sumergirme en el desafío de la máquina RootMe en TryHackMe. Esta experiencia me ha llevado a explorar y documentar los desafíos de seguridad que encuentro, con el objetivo de repasar, aprender y mejorar continuamente mis habilidades.🌟 Mi MotivaciónEsta experiencia me ha impulsado no solo a documentar mis avances en formato PDF con LaTeX, lo cual me ha permitido practicar y mejorar la presentación de mis informes, sino también a construir esta web, un espacio en el que compartir mis experiencias, noticias relevantes y ayudar a la comunidad en su viaje de aprendizaje en el mundo de la seguridad informática.🎯 Introducción al DesafíoEn esta publicación, compartiré mi experiencia con el desafío de la máquina RootMe de TryHackMe. Este reto se centra en identificar vulnerabilidades en un entorno controlado, buscando escalar privilegios en la máquina objetivo.💡 Mi ExperienciaDurante la resolución del desafío RootMe, descubrí la importancia de la perseverancia y la meticulosidad en cada paso. A veces, los caminos obvios no son los más productivos, y cada obstáculo representa una oportunidad para aprender.📋 Detalles del DesafíoEl desafío de RootMe implica una serie de pruebas que exigen habilidades en áreas como el reconocimiento, la explotación de vulnerabilidades y la escalada de privilegios.📚 Solución DetalladaPara aquellos interesados en los pasos seguidos para superar los desafíos presentados en RootMe, he preparado una solución detallada en formato PDF. Me esfuerzo por ofrecer contenido de calidad, y aunque estos sean mis primeros pasos, seguiré mejorando tanto en el contenido como en la presentación.Descarga la solución en PDFEl PDF contiene una guía paso a paso desde la introducción y los objetivos del desafío, pasando por el reconocimiento inicial del sistema, hasta la explotación de vulnerabilidades y la consecución de los objetivos planteados. Todo está documentado para proporcionar una visión clara del proceso, aunque existen múltiples enfoques para resolver la máquina.Espero que esta publicación sea de ayuda.¡Gracias por leer! ¡Feliz hacking! 🔏Narface"
   },
   
   {

@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Narface</title>
   <subtitle>Narface es un sitio web donde comparto mis experiencias, conocimientos y proyectos sobre ciberseguridad. Aquí encontrarás write-ups de máquinas, tutoriales de herramientas, noticias, opiniones y mucho más. Mi objetivo es aprender y ayudar a otros a aprender sobre este apasionante campo.</subtitle>
-  <updated>2024-01-02T11:22:08+01:00</updated>
+  <updated>2024-01-06T14:01:52+01:00</updated>
   <author>
     <name>Narface</name>
     <uri>http://localhost:4000/</uri>
@@ -20,11 +20,11 @@
 
   
   <entry>
-    <title>RootMe</title>
-    <link href="http://localhost:4000/posts/RootMe/" rel="alternate" type="text/html" title="RootMe" />
-    <published>2024-01-02T13:00:00+01:00</published>
+    <title>RootMe: Desafiando la seguridad</title>
+    <link href="http://localhost:4000/posts/RootMe/" rel="alternate" type="text/html" title="RootMe: Desafiando la seguridad" />
+    <published>2024-01-03T13:00:00+01:00</published>
   
-    <updated>2024-01-02T13:00:00+01:00</updated>
+    <updated>2024-01-06T13:33:35+01:00</updated>
   
     <id>http://localhost:4000/posts/RootMe/</id>
     <content src="http://localhost:4000/posts/RootMe/" />
@@ -46,13 +46,13 @@
 
 
 
-      🚀 RootMe: Un viaje a través de TryHackMe
+      🚀 RootMe: Un desafío de seguridad
 
-Recientemente, tuve la oportunidad de enfrentarme al desafío de la máquina RootMe en TryHackMe. Esta experiencia me ha permitido profundizar en mis habilidades de hacking y aprender nuevas técnicas.
+Recientemente, he tenido la oportunidad de sumergirme en el desafío de la máquina RootMe en TryHackMe. Esta experiencia me ha llevado a explorar y documentar los desafíos de seguridad que encuentro, con el objetivo de repasar, aprender y mejorar continuamente mis habilidades.
 
 🌟 Mi Motivación
 
-Este desafío me ha motivado a seguir aprendiendo y mejorando en el campo del hacking ético. Además, me ha animado a compartir mis experien...
+Esta experiencia me ha impulsado no solo a documentar mis avances e...
     </summary>
   
 
@@ -64,7 +64,7 @@ Este desafío me ha motivado a seguir aprendiendo y mejorando en el campo del ha
     <link href="http://localhost:4000/posts/pickle-rick/" rel="alternate" type="text/html" title="Pickle Rick: En busca de los ingredientes" />
     <published>2023-12-26T13:00:00+01:00</published>
   
-    <updated>2023-12-29T14:28:38+01:00</updated>
+    <updated>2024-01-03T12:49:13+01:00</updated>
   
     <id>http://localhost:4000/posts/pickle-rick/</id>
     <content src="http://localhost:4000/posts/pickle-rick/" />

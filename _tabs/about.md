@@ -55,6 +55,6 @@ Actualmente me estoy preparando para obtener la certificación OSCP de Offensive
 - [Proyecto 1](https://github.com/Narface/narface.github.io) - Creación de mi blog de ciberseguridad.
 
 ## Contacto
-Puedes encontrarme en [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/) para mantenernos en contacto y seguir mi trabajo.
+Puedes encontrarme en [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/) para mantenernos en contacto.
 
 ¡Gracias por pasar por aquí!😁
