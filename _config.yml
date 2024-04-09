@@ -16,11 +16,10 @@ timezone: "Europe/Madrid"
 
 title: Narface # the main title
 
-tagline: "💻Ciberseguridad | Hacking Ético"# it will display as the sub-title
+tagline: "💻Ciberseguridad | Hacking Ético" # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  "Narface es un sitio web donde comparto mis experiencias, conocimientos y proyectos sobre ciberseguridad. Aquí encontrarás write-ups de máquinas, tutoriales de herramientas, noticias, opiniones y mucho más. Mi objetivo es aprender y ayudar a otros a aprender sobre este apasionante campo."
-
+description: "Narface es un sitio web donde comparto mis experiencias, conocimientos y proyectos sobre ciberseguridad. Aquí encontrarás write-ups de máquinas, tutoriales de herramientas, noticias, opiniones y mucho más. Mi objetivo es aprender y ayudar a otros a aprender sobre este apasionante campo."
+# used by seo meta and the atom feed 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://narface.github.io"
@@ -35,11 +34,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Narface
-  email: thenarface@gmail.com # change to your email address
+  email: thenarface@gmil.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/narface # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/fran-su%C3%A1rez-ramos/
@@ -52,9 +51,6 @@ google_site_verification: # fill in to your verification string
 google_analytics:
   id: # fill in your Google Analytics ID
 
-goatcounter:
-  id: # fill in your Goatcounter ID
-
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
@@ -66,21 +62,18 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
+
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://avatars.githubusercontent.com/u/67017867?s=400&u=60cfd1d2f27634cea55d8ed4f04e2bcec47eff7f&v=4
-
-# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
-# It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -111,17 +104,10 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development | production]
+    env: # [development|production]
 
 pwa:
-  enabled: true # the option for PWA feature (installable)
-  cache:
-    enabled: true # the option for PWA offline cache
-    # Paths defined here will be excluded from the PWA cache.
-    # Usually its value is the `baseurl` of another website that
-    # shares the same domain name as the current website.
-    deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+  enabled: true # the option for PWA feature
 
 paginate: 10
 
@@ -167,6 +153,10 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: assets/img/favicons
+    values:
+      swcache: true
   - scope:
       path: assets/js/dist
     values:
