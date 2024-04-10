@@ -8,18 +8,6 @@ tags: [TryHackMe, Pickle Rick, Hacking, eJPTV2]
 image: https://th.bing.com/th/id/OIP.eKxDaTGXdElKiVBuhIvC_AAAAA?rs=1&pid=ImgDetMain
 ---
 
-## 🌟 Mi Motivación
-
-La importancia de este proyecto no radica solo en el desafío técnico, sino en el impulso para documentar mis experiencias en formato PDF utilizando LaTeX. Este enfoque me ha permitido no solo consolidar mis conocimientos sino también mejorar en la creación de informes técnicos.
-
-## 🎯 Introducción al Desafío
-
-Este post comparte mi travesía enfrentando el desafío Pickle Rick de TryHackMe, inspirado en la serie Rick y Morty. Nuestro objetivo: ayudar a Rick a revertir su transformación en pepinillo, superando vulnerabilidades en un servidor web para encontrar tres ingredientes secretos.
-
-## 💡 Reflexiones
-
-La resolución de la máquina Pickle Rick fue un recordatorio de que no todas las rutas llevan al éxito directo; algunas pueden desviar nuestra atención. Sin embargo, cada paso es una lección valiosa que fortalece nuestra resiliencia y capacidad analítica.
-
 ## 📚 Solución Detallada
 
 Aunque este post sirve como una introducción y motivación para enfrentar el desafío, la verdadera esencia de mi aventura y las soluciones técnicas detalladas residen en el PDF preparado especialmente para ti. Este documento es el resultado de horas de dedicación, donde cada paso, cada comando y cada reflexión ha sido cuidadosamente documentado.
